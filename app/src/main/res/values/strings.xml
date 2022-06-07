@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Listes</string>
+
+    <string-array name="liste_stagiaires">
+        <item>@string/stagiaires_item_0</item>
+        <item>@string/stagiaires_item_1</item>
+        <item>@string/stagiaires_item_2</item>
+        <item>@string/stagiaires_item_3</item>
+        <item>@string/stagiaires_item_4</item>
+        <item>@string/stagiaires_item_5</item>
+        <item>@string/stagiaires_item_6</item>
+    </string-array>
+
+    <string name = "stagiaires_item_0">Monday</string>
+    <string name = "stagiaires_item_1">Tuesday</string>
+    <string name = "stagiaires_item_2">Wednesday</string>
+    <string name = "stagiaires_item_3">Thursday</string>
+    <string name = "stagiaires_item_4">Friday</string>
+    <string name = "stagiaires_item_5">Saturday</string>
+    <string name = "stagiaires_item_6">Sunday</string>
+
+</resources>

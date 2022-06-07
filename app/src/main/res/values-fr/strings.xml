@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Listes</string>
+    <string name="stagiaires_item_0">Lundi</string>
+    <string name="stagiaires_item_1">Mardi</string>
+    <string name="stagiaires_item_2">Mercredi</string>
+    <string name="stagiaires_item_3">Jeudi</string>
+    <string name="stagiaires_item_4">Vendredi</string>
+    <string name="stagiaires_item_5">Samedi</string>
+    <string name="stagiaires_item_6">Dimanche</string>
+</resources>
